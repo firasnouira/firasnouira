@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Firas Nouira
 
-<!--
-**firasnouira/firasnouira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student focused on backend development and software systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Backend development
+- REST API design
+- System architecture (academic + project-based)
+- Web applications
+
+---
+
+## Tech Stack
+- Java / Spring Boot
+- Node.js
+- React
+- Angular
+- MongoDb
+- REST APIs
+
+---
+
+## Projects
+
+### Projects Placement
+description
+  -feature title 
+
+---
+
+## Currently focused on
+- Improving backend system design
+- learning Data Science
+
+---
+
+## Contact
+- Email: firasnouira33@email.com
