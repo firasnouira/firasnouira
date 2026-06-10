@@ -3,7 +3,7 @@
 CS student focused on backend development and software systems.
 
 ---
-## Profile : https://firasnouira.github.io/Profile/
+## Profile : https://firasnouira.github.io/profile/
 ---
 ---
 
